@@ -3,8 +3,8 @@ package routers
 import (
     "net/http"
  
-    "github.com/lutrueba/microblog/bd"
-    "github.com/lutrueba/microblog/models"
+    "github.com/Palmieri31/microblog/bd"
+    "github.com/Palmieri31/microblog/models"
 )
 
 /*AltaRelacion - realiza el registro de la relación entre usuarios*/

@@ -4,7 +4,7 @@ import (
     "context"
     "time"
  
-    "github.com/lutrueba/microblog/models"
+    "github.com/Palmieri31/microblog/models"
 )
  
 /*InsertoRelacion - graba la relación en la bd*/

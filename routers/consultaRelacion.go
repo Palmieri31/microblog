@@ -4,8 +4,8 @@ import (
     "encoding/json"
     "net/http"
  
-    "github.com/lutrueba/microblog/bd"
-    "github.com/lutrueba/microblog/models"
+    "github.com/Palmieri31/microblog/bd"
+    "github.com/Palmieri31/microblog/models"
 )
  
 /*ConsultaRelacion chequea si hay relación entre dos usuarios*/
